@@ -2,7 +2,7 @@
 
 A beautifully designed Flutter application that allows users to browse meals, filter recipes by dietary preferences, and mark favorites. Built with clean architecture, smooth UI animations, and effective state management using Provider.
 
-![cover](screenshots/Cooking Up.png)
+![cover](screenshots/Cooking_Up.png)
 
 ---
 
